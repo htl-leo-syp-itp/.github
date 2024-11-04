@@ -14,3 +14,12 @@ Shared materials for sys/itp @ HTL-Leonding.
 | 5AHIF | Birgit Schröder | Markus Haslinger | |
 | 5BHIF | Thomas Stütz | Christian Aberger | |
 | 5CHIF | Hans-Christian Hammer | Markus Haslinger | |
+
+
+| 3AHITM | Thomas Stütz | Christian Aberger | |
+| 3BHITM | Dietmar Steiner | Natascha Rammelmüller | |
+| 3CHITM | Hans-Christian Hammer | Michael Palitsch-Infanger | |
+| 4AHITM | Robert Reder | Christian Aberger | |
+| 4BHITM | Hans-Christian Hammer | Christian Aberger | |
+| 5AHITM | Hans-Christian Hammer | Christian Aberger, Thomas Stütz | |
+| 5BHITM | Dietmar Steiner | Christian Aberger | |
