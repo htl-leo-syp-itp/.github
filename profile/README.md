@@ -8,6 +8,7 @@ Shared materials for sys/itp @ HTL-Leonding.
 | 3AHIF | Thomas Stütz | | |
 | 3BHIF | Birgit Schröder | | |
 | 3CHIF | Franz Aunernig | | |
+| 3DHIF | David Klewein | | |
 | 4AHIF | Birgit Schröder | Michael Bucek | |
 | 4BHIF | Herbert Aitenbichler | Markus Haslinger | |
 | 4CHIF | Michael Palitsch-Infanger | Thomas Stütz | |
