@@ -18,6 +18,6 @@ Shared materials for sys/itp @ HTL-Leonding.
 | 3BHITM | Dietmar Steiner | Natascha Rammelmüller | |
 | 3CHITM | Hans-Christian Hammer | Michael Palitsch-Infanger | |
 | 4AHITM | Robert Reder | Christian Aberger | |
-| 4BHITM | Hans-Christian Hammer | Christian Aberger | |
-| 5AHITM | Hans-Christian Hammer | Christian Aberger, Thomas Stütz | |
+| 4BHITM | Hans-Christian Hammer | Christian Aberger, Thomas Stütz | |
+| 5AHITM | Hans-Christian Hammer | Christian Aberger | |
 | 5BHITM | Dietmar Steiner | Christian Aberger | |
