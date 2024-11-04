@@ -22,3 +22,5 @@ Shared materials for sys/itp @ HTL-Leonding.
 | 4BHITM | Hans-Christian Hammer | Christian Aberger, Thomas Stütz | |
 | 5AHITM | Hans-Christian Hammer | Christian Aberger | |
 | 5BHITM | Dietmar Steiner | Christian Aberger | |
+| 5ABIF | Peter Bauer | | |
+| 7ABIF | David Klewein | | |
